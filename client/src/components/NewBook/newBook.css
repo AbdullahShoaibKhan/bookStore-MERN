@@ -1,0 +1,11 @@
+.formData{
+   margin: 5px;
+   display: flex;
+   flex-direction: column;
+   align-content: center;
+}
+body{
+   padding: 5px;
+   margin:5px;
+   background-color:  #FAF5EF;
+}
